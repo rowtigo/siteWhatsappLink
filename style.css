@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@600&display=swap');
+
+body {
+    background-color: #0E1D47;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    font-family: 'Spartan', sans-serif;
+}
+
+.destaque {
+  color: #37EAF0;
+  margin-bottom: 5px;
+}
+
+.cab {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.btn-outline-light {
+  margin-left: 10px;
+}
