@@ -19,6 +19,10 @@ body {
   margin-bottom: 5px;
 }
 
+destaque {
+  color: #37EAF0;
+}
+
 .cab {
   justify-content: center;
   align-items: center;
